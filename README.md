@@ -100,11 +100,4 @@ Contributions are welcome! :
 - Risk management features
 - Performance optimizations
 
-## References
 
-- [Jito Documentation](https://docs.jito.wtf)
-- [Solana Web3.js Documentation](https://solana-labs.github.io/solana-web3.js/)
-
-## License
-
-See [LICENSE](./LICENSE) file for details.
